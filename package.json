@@ -1,0 +1,16 @@
+{
+  "name": "swhacks-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Alex Arena",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "chai": "^3.5.0",
+    "express": "^4.15.0"
+  }
+}
