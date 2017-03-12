@@ -4,7 +4,7 @@ This is a sample API designed to showcase the concepts of test-driven developmen
 
 All code was written during a 45 minute talk at [SWHacks 2017](http://swhacks.org).
 
-The talk was focused on users who had a moderate understanding of object oriented programming, but no experience with web APIs, web frameworks, test driven development, or even HTTP requests.
+The talk was targeted to users who had a moderate understanding of object oriented programming, but no experience with web APIs, web frameworks, test driven development, or even HTTP requests.
 
 ## Usage
 
@@ -38,8 +38,12 @@ This is an API to create an extremely simple todo list. It has the following met
     
 * **Example Request**
 
+
 ```sh
-curl -X GET -H "Cache-Control: no-cache" "http://localhost:3000/"```
+curl -X GET -H "Cache-Control: no-cache" "http://localhost:3000/"
+
+```
+
 
 ### Create a Todo
 
